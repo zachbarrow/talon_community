@@ -73,7 +73,7 @@ ctx.keymap(
         "documents": Key("cmd-shift-o"),
         "air drop": Key("cmd-shift-r"),
         "utilities": Key("cmd-shift-u"),
-        "downloads": Key("cmd-shift-l"),
+        "downloads": Key("cmd-alt-l"),
         "applications": Key("cmd-shift-a"),
         "developer": go_to_path("~/Developer"),
         "talon": go_to_path("~/.talon/user"),
